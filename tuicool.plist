@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>perlye.app</string>
+				<string>com.tuicool.tuicool</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.7.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>业务系统</string>
+				<string>推酷</string>
 			</dict>
 		</dict>
 	</array>
